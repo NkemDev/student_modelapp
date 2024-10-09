@@ -66,7 +66,7 @@ df["class_participation"] = le.fit_transform(df["class_participation"])
 df = df[:1]
 
 # Displays the user input features
-st.subheader("User Input features")
+st.subheader("Student Factors")
 st.write(df)
 
 # Load the saved model
