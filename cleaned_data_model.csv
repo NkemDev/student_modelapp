@@ -1,0 +1,60 @@
+age,gender,average_household_income,parents_educational_qualification,marital_status_of_parents,residence,type_of_family,no_of_siblings,parental_support,average_days_absent,distance_btwn_home_school,use_of_library_and_study_spaces,use_of_internet,jamb_score,class_participation,stress_levels,daily_study,extracurricular_activities,study_satasifaction,last_academic_performance,exam_prep_challenges,recommendations
+16 -20,Female,low-middleclass,Post Graduate,Married,Urban,Nuclear,2,5,1,less than 1km,5,3,Fail,High,4,5,3,4,4,"lack of study materials, Financial Difficulties",Parental Support
+25-30,Male,upper-middleclass,National Diploma,Single,Rural,Nuclear,4,5,5,1-3km,3,2,Fail,Moderate,4,4,3,4,4,"lack of study materials, limited access to quiet place of study, Financial Difficulties","More access to study materials, Private tutorials, Parental Support"
+21-25,Male,low,HND,Married,Urban,Nuclear,4,5,0,1-3km,3,2,Fail,High,4,4,4,4,4,Poor Understanding of Courses/Subjects,"More access to study materials, Private tutorials"
+25-30,Male,low-middleclass,HND,Single,Rural,Nuclear,6,4,1,1-3km,2,3,Pass,High,4,1,1,4,4,"limited access to quiet place of study, lack of study materials","More access to study materials, Private tutorials"
+16 -20,Male,low,National Diploma,Married,Urban,Nuclear,3,4,0,3-5km,2,2,Fail,Moderate,3,3,4,4,4,Poor Understanding of Courses/Subjects,Private tutorials
+35 - 40,Male,low,Post Graduate,Widowed,Urban,Nuclear,3,4,0,1-3km,4,3,Pass,High,5,3,3,3,5,Poor Understanding of Courses/Subjects,"More access to study materials, Private tutorials"
+21-25,Female,low-middleclass,HND,Single,Sub-Urban,Nuclear,4,3,3,Above 5km,3,3,Pass,High,4,5,4,3,5,Poor Understanding of Courses/Subjects,Private tutorials
+above 40,Male,upper-middleclass,HND,Married,Urban,Nuclear,8,4,5,Above 5km,4,4,Pass,High,3,5,2,2,3,"lack of study materials, Financial Difficulties","More access to study materials, Private tutorials"
+30-34,Male,low-middleclass,Secondary School Cert,Single,Sub-Urban,Nuclear,3,4,4,3-5km,1,2,Fail,Moderate,4,3,3,4,4,"lack of study materials, Financial Difficulties",Private tutorials
+16 -20,Male,upper-middleclass,Post Graduate,Married,Urban,Nuclear,5,4,4,Above 5km,5,4,Pass,High,5,5,5,5,5,Poor Understanding of Courses/Subjects,None
+25-30,Male,upper-middleclass,Secondary School Cert,Widowed,Urban,Nuclear,3,5,5,Above 5km,1,4,Pass,Moderate,4,3,3,4,4,limited access to quiet place of study,"More access to study materials, "
+30-34,Male,low-middleclass,Informal,Widowed,Sub-Urban,Extended,6,5,1,less than 1km,3,3,Pass,Low,5,5,5,5,3,limited access to quiet place of study,Private Tutorials
+21-25,Male,low,Secondary School Cert,Single,Rural,Nuclear,5,5,2,3-5km,1,2,Fail,High,5,1,1,4,4,Poor Understanding of Courses/Subjects,Private tutorials
+21-25,Male,low-middleclass,Informal,Married,Rural,Extended,9,5,7,3-5km,1,5,Fail,Moderate,3,3,3,3,1,limited access to quiet place of study,Private tutorials
+21-25,Male,low-middleclass,National Diploma,Married,Urban,Nuclear,6,4,2,1-3km,4,5,Fail,Moderate,3,2,4,5,4,"lack of study materials, limited access to quiet place of study, Poor Understanding of Courses/Subjects","More access to study materials, Private tutorials"
+16 -20,Female,upper-middleclass,Secondary School Cert,Single,Urban,Nuclear,6,5,5,Above 5km,5,4,Pass,Moderate,5,3,3,5,4,"limited access to quiet place of study, Poor Understanding of Courses/Subjects",More access to study materials
+35 - 40,Male,low-middleclass,Secondary School Cert,Married,Urban,Nuclear,3,5,2,3-5km,4,3,Fail,High,3,4,3,3,4,Financial Difficulties,Private tutorials
+16 -20,Female,low-middleclass,Post Graduate,Married,Sub-Urban,Nuclear,4,3,2,1-3km,5,3,Fail,Moderate,4,2,4,5,5,limited access to quiet place of study,Private tutorials
+16 -20,Female,low-middleclass,Secondary School Cert,Married,Urban,Nuclear,5,5,0,1-3km,2,4,Fail,Moderate,4,3,2,5,4,limited access to quiet place of study,Private tutorials
+16 -20,Female,upper-middleclass,Secondary School Cert,Married,Urban,Nuclear,7,5,0,3-5km,5,3,Pass,High,4,3,3,4,5,"lack of study materials, limited access to quiet place of study, ","More access to study materials, "
+16 -20,Male,low,Informal,Married,Sub-Urban,Nuclear,5,3,0,less than 1km,3,3,Fail,Moderate,5,3,3,3,3,"lack of study materials, limited access to quiet place of study, Financial Difficulties","More access to study materials, Private tutorials, Parental Support"
+16 -20,Female,low-middleclass,HND,Married,Sub-Urban,Nuclear,4,5,0,less than 1km,4,4,Pass,High,3,4,3,5,4,None ,Private tutorials
+16 -20,Female,low-middleclass,HND,Married,Sub-Urban,Nuclear,3,4,2,less than 1km,4,4,Pass,High,3,4,3,4,5,None,None
+30-34,Female,upper-middleclass,Bachelors Degree,Widowed,Sub-Urban,Extended,8,5,3,1-3km,2,5,Pass,High,3,3,3,4,4,limited access to quiet place of study,More access to study materials
+16 -20,Female,High,Secondary School Cert,Single,Rural,Extended,4,1,3,3-5km,3,1,Fail,High,2,5,3,3,5,None,More access to study materials
+30-34,Male,low-middleclass,Informal,Married,Urban,Nuclear,3,5,2,1-3km,3,5,Pass,High,3,3,5,3,5,None,More access to study materials
+30-34,Female,upper-middleclass,Bachelors Degree,Married,Urban,Nuclear,6,3,1,1-3km,4,5,Fail,Moderate,4,3,3,4,4,"limited access to quiet place of study, Poor Understanding of Courses/Subjects","More access to study materials, Private tutorials"
+30-34,Male,low-middleclass,HND,Married,Urban,Nuclear,5,5,1,3-5km,2,5,Fail,High,3,3,4,4,4,Financial Difficulties,"More access to study materials, Private tutorials"
+30-34,Female,low,Bachelors Degree,Single,Sub-Urban,Nuclear,6,5,2,1-3km,3,5,Pass,High,4,4,3,3,4,"lack of study materials, Financial Difficulties","More access to study materials, Private tutorials"
+30-34,Male,low-middleclass,HND,Married,Urban,Extended,10,5,4,Above 5km,1,2,Fail,Low,2,5,2,5,4,lack of study materials,More access to study materials
+25-30,Male,low-middleclass,Bachelors Degree,Widowed,Urban,Nuclear,2,5,10,less than 1km,4,3,Fail,Low,3,2,2,4,5,Financial Difficulties,None
+30-34,Female,upper-middleclass,Bachelors Degree,Married,Urban,Nuclear,5,5,5,1-3km,1,5,Fail,Moderate,5,2,4,5,4,"lack of study materials, Poor Understanding of Courses/Subjects, Financial Difficulties","More access to study materials, Private tutorials"
+21-25,Male,low-middleclass,Bachelors Degree,Married,Sub-Urban,Nuclear,4,5,0,1-3km,3,4,Fail,High,4,3,4,4,3,Financial Difficulties,"More access to study materials, Private tutorials, Parental Support"
+30-34,Male,upper-middleclass,Bachelors Degree,Single,Urban,Nuclear,3,3,1,less than 1km,3,5,Fail,High,4,3,4,5,4,None,Access to internet
+30-34,Male,upper-middleclass,Bachelors Degree,Single,Urban,Extended,6,4,1,less than 1km,4,5,Pass,High,2,4,4,3,4,None,Private tutorials
+30-34,Female,low,Secondary School Cert,Married,Rural,Extended,5,5,5,3-5km,4,3,Fail,Moderate,2,1,3,1,5,"Financial Difficulties, ",Private tutorials
+30-34,Female,low-middleclass,HND,Single,Urban,Nuclear,3,4,1,1-3km,3,5,Pass,Moderate,3,4,3,4,4,"lack of study materials, Financial Difficulties","More access to study materials, Private tutorials, Parental Support"
+above 40,Male,upper-middleclass,Bachelors Degree,Married,Sub-Urban,Nuclear,6,5,3,Above 5km,3,5,Pass,Moderate,5,3,3,4,4,"limited access to quiet place of study, Financial Difficulties","More access to study materials, Private tutorials"
+25-30,Female,low,Bachelors Degree,Married,Urban,Nuclear,6,1,1,1-3km,2,5,Fail,Moderate,5,3,5,3,3,Financial Difficulties,Private tutorials
+25-30,Female,low,Informal,Married,Urban,Nuclear,3,5,4,3-5km,3,2,Pass,Moderate,5,4,3,3,3,Financial Difficulties,Parental Support
+21-25,Female,upper-middleclass,Bachelors Degree,Divorced,Urban,Nuclear,3,1,0,less than 1km,5,5,Pass,Moderate,5,4,5,5,5,lack of study materials,More access to study materials
+25-30,Female,low,Bachelors Degree,Married,Urban,Nuclear,3,1,0,Above 5km,5,5,Pass,Moderate,5,3,3,3,5,None,More access to study materials
+25-30,Female,low,Secondary School Cert,Married,Urban,Nuclear,5,5,0,3-5km,3,4,Pass,Moderate,5,3,2,5,5,None,"More access to study materials, Private tutorials, None"
+21-25,Female,low-middleclass,Bachelors Degree,Married,Urban,Nuclear,1,5,2,3-5km,3,5,Fail,High,5,5,5,5,5,limited access to quiet place of study,"More access to study materials, Private tutorials, Parental Support"
+30-34,Male,low-middleclass,HND,Married,Rural,Extended,5,1,1,Above 5km,3,5,Fail,Moderate,5,3,4,5,5,limited access to quiet place of study,Private tutorials
+35 - 40,Male,low-middleclass,Post Graduate,Married,Urban,Nuclear,5,4,3,1-3km,1,3,Pass,High,3,3,2,4,3,Poor Understanding of Courses/Subjects,Private tutorials
+25-30,Female,low-middleclass,Post Graduate,Married,Urban,Nuclear,2,5,3,1-3km,5,5,Pass,High,4,3,3,5,5,None,"More access to study materials, Private tutorials"
+25-30,Female,upper-middleclass,Bachelors Degree,Married,Urban,Nuclear,2,5,0,3-5km,2,5,Pass,High,5,2,5,4,4,None,None
+30-34,Female,upper-middleclass,Informal,Married,Urban,Nuclear,4,5,1,Above 5km,2,5,Fail,Moderate,2,2,3,3,3,"limited access to quiet place of study, Poor Understanding of Courses/Subjects",Private tutorials
+25-30,Female,upper-middleclass,Post Graduate,Married,Urban,Nuclear,2,5,0,Above 5km,4,5,Pass,High,4,3,2,3,4,"limited access to quiet place of study, Poor Understanding of Courses/Subjects","More access to study materials, Parental Support"
+30-34,Female,low-middleclass,Bachelors Degree,Widowed,Rural,Nuclear,4,5,0,Above 5km,5,1,Fail,Moderate,3,5,5,5,5,None,None
+21-25,Female,low-middleclass,Secondary School Cert,Married,Rural,Nuclear,5,3,0,less than 1km,3,3,Pass,High,3,2,3,4,4,"lack of study materials, Poor Understanding of Courses/Subjects, Financial Difficulties","More access to study materials, Private tutorials, Parental Support"
+25-30,Female,low-middleclass,HND,Married,Urban,Nuclear,5,4,0,1-3km,3,2,Pass,Moderate,4,4,4,4,4,limited access to quiet place of study,Private tutorials
+30-34,Female,upper-middleclass,Informal,Widowed,Urban,Nuclear,4,5,2,Above 5km,1,5,Pass,High,5,4,3,2,3,lack of study materials,More access to study materials
+21-25,Female,upper-middleclass,HND,Widowed,Urban,Extended,4,5,2,3-5km,2,5,Fail,High,4,3,3,4,4,limited access to quiet place of study,More access to study materials
+30-34,Male,low-middleclass,National Diploma,Married,Rural,Nuclear,4,3,40,Above 5km,4,3,Pass,Moderate,4,2,2,5,5,Financial Difficulties,Parental Support
+21-25,Male,upper-middleclass,Post Graduate,Widowed,Urban,Nuclear,5,5,6,Above 5km,5,5,Pass,High,5,5,5,5,5,None,Private tutorials
+30-34,Male,low-middleclass,Informal,Married,Urban,Nuclear,5,5,0,less than 1km,4,4,Pass,High,3,3,4,5,4,lack of study materials,"More access to study materials, Private tutorials"
+16 -20,Female,upper-middleclass,HND,Married,Urban,Extended,8,5,2,less than 1km,1,2,Fail,High,1,2,4,3,5,lack of study materials,More access to study materials
